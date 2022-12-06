@@ -1,0 +1,6 @@
+S
+A*B*S^
+a*b^
+S*A*b^
+A*A*a^
+B*b^

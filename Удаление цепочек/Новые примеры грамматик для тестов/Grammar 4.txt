@@ -1,0 +1,11 @@
+S
+S*A*B*M*N*K^
+c*p*b*a^
+S*KNM^
+A*&^
+A*c^
+B*&^
+B*p^
+M*AB^
+N*Ab^
+K*ab^
